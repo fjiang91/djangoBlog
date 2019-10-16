@@ -70,6 +70,10 @@ mav button {
   font-size: 1.2em;
 }
 
+.article .footer {
+  display: flex;
+}
+
 .article .author {
   padding: 10px;
   background: #00dba0;
@@ -108,6 +112,23 @@ mav button {
   display: block;
   margin: 20px 0 0 0;
   padding: 10px;
+}
+
+.logout-btn {
+  background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+.logout-link {
+  border: 1px solid #00dba0;
+  padding: 10px;
+  border-radius: 4px;
+  color: #00dba0;
 }
 
 a.highlight {
