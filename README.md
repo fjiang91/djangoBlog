@@ -4,8 +4,6 @@
 
 This is a blog that allows you to create blogs. It is an Full Stack application built with Python and Django following tutorials from Net Ninja on YouTube.
 
-#### View App: http://chingu-prework-journalapp.herokuapp.com/
-
 ## Features
 
 * An online digital blog that allows users to create online blog
